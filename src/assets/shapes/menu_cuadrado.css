@@ -1,0 +1,4 @@
+.Menu_cuadrado {
+    transform: scaleY(1.1)  translateX(18%) translateY(-5%);
+    /* padding-top: 16%; */
+}
